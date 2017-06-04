@@ -1,0 +1,2134 @@
+3d printing	computer aided design	0.30303030303030304
+3m	procter gamble	0.36
+3m	xerox	0.3409090909090909
+ability	competence	0.3111111111111111
+abraham	moses	0.5476190476190477
+abraham	david	0.4
+abraham lincoln	martin luther king	0.3055555555555556
+accelerometer	gyroscope	0.34545454545454546
+accessibility	convenience	0.36065573770491804
+accessibility	skill	0.32989690721649484
+accessibility	content	0.3037974683544304
+accountant	lawyer	0.4626865671641791
+accountant	attorney	0.3523809523809524
+accounting	finance	0.32122905027932963
+accounts receivable	accounts payable	0.3076923076923077
+acetic acid	formic acid	0.3146067415730337
+acetylcholine	glutamate	0.3137254901960784
+acquisition	merger	0.4144144144144144
+act	sat	0.3617021276595745
+address	name	0.3598901098901099
+address	phone number	0.3288888888888889
+adidas	nike	0.448
+adidas	reebok	0.3235294117647059
+aerospace	automotive	0.3157894736842105
+aes	des	0.3333333333333333
+aesthetic	accessibility	0.38461538461538464
+aetna	cigna	0.6551724137931034
+aetna	blue cross	0.45454545454545453
+affiliate marketing	viewer feedback forum	0.7777777777777778
+affiliate marketing	blogging	0.46296296296296297
+afghanistan	iraq	0.41304347826086957
+agar	xanthan gum	0.32432432432432434
+agility	obedience	0.3469387755102041
+air quality	water quality	0.47540983606557374
+air temperature	relative humidity	0.45569620253164556
+alcohol use	tobacco use	0.328125
+alcohol use	cigarette smoking	0.30434782608695654
+alcohol use	alcohol consumption	0.30337078651685395
+alcoholics anonymous	narcotics anonymous	0.6774193548387096
+alder	elm	0.3055555555555556
+aleve	motrin	0.5909090909090909
+aleve	advil	0.4603174603174603
+alfalfa	clover	0.3300970873786408
+alkaloid	saponin	0.3157894736842105
+alzheimer s	parkinson s disease	0.30952380952380953
+alzheimer's disease	parkinson's disease	0.4722222222222222
+amaranth	buckwheat	0.3191489361702128
+amazon.com	amazon com	0.34177215189873417
+ambient temperature	wind direction	0.3333333333333333
+america online	compuserve	0.4857142857142857
+america online	prodigy	0.42857142857142855
+american red cross	salvation army	0.3225806451612903
+amoxicillin	penicillin	0.3333333333333333
+amphibian	reptile	0.3972602739726027
+analyst	project manager	0.3055555555555556
+anatomy	physiology	0.627906976744186
+anchovy	herring	0.3469387755102041
+anchovy	sardine	0.32432432432432434
+anova	t test	0.34285714285714286
+anthracene	naphthalene	0.36363636363636365
+anthropology	economics	0.3333333333333333
+anthropology	computer science	0.32558139534883723
+anxiety disorder	personality disorder	0.35294117647058826
+anxiety disorder	post traumatic stress disorder	0.3333333333333333
+anxiety disorder	bipolar disorder	0.32
+anxiety disorder	mood disorder	0.3103448275862069
+argentina	chile	0.3118279569892473
+argentina	mexico	0.30833333333333335
+arizona	texas	0.3181818181818182
+arizona	ohio	0.3088235294117647
+armani	hugo boss	0.358974358974359
+armani	ralph lauren	0.34782608695652173
+armani	calvin klein	0.3333333333333333
+armani	gucci	0.3287671232876712
+armani	dior	0.32608695652173914
+arrear	insolvency	0.5172413793103449
+arrear	arrears	0.34545454545454546
+arrears	iva	0.7
+arrears	insolvency	0.48
+arugula	watercress	0.5483870967741935
+arugula	collard	0.42424242424242425
+arugula	bok choy	0.3939393939393939
+asia	middle east	0.32142857142857145
+aspirin	ibuprofen	0.42777777777777776
+assertiveness	self awareness	0.37142857142857144
+assertiveness	team work	0.3157894736842105
+assertiveness	conflict resolution	0.30434782608695654
+astronomy	molecular biology	0.3023255813953488
+athlete s foot	ringworm	0.32432432432432434
+atlanta	seattle	0.4782608695652174
+atlanta	dallas	0.4634146341463415
+atlanta	d c	0.40540540540540543
+atlanta	denver	0.3953488372093023
+atlanta	san diego	0.391304347826087
+atlanta	detroit	0.391304347826087
+atlanta	pittsburgh	0.3902439024390244
+atlanta	philadelphia	0.3888888888888889
+atlanta	houston	0.3877551020408163
+atlanta	vancouver	0.36363636363636365
+atlanta	baltimore	0.35
+atlanta	new york city	0.3442622950819672
+atlanta	boston	0.34375
+atlanta	st louis	0.325
+atlanta	los angeles	0.3125
+atlanta	sydney	0.30952380952380953
+atlanta	toronto	0.3090909090909091
+atlanta	cleveland	0.30434782608695654
+attitude	motivation	0.3466666666666667
+attitude	knowledge	0.3088235294117647
+attitude	personality	0.30701754385964913
+auditorium	cafeteria	0.3488372093023256
+auditorium	gymnasium	0.3333333333333333
+auditorium	conference room	0.3076923076923077
+austin	d c	0.3888888888888889
+austin	portland	0.35
+austin	dallas	0.3488372093023256
+austin	denver	0.3488372093023256
+austin	seattle	0.32
+austin	detroit	0.3191489361702128
+austin	cleveland	0.3181818181818182
+austin	pittsburgh	0.30952380952380953
+austin	atlanta	0.30434782608695654
+austin	miami	0.3018867924528302
+australia	canada	0.4503105590062112
+austria	belgium	0.45161290322580644
+austria	denmark	0.41237113402061853
+austria	switzerland	0.37168141592920356
+austria	portugal	0.3655913978494624
+austria	finland	0.35106382978723405
+austria	ireland	0.32456140350877194
+austria	netherlands	0.3181818181818182
+austria	greece	0.3089430894308943
+authenticity	participation	0.3157894736842105
+authenticity	morality	0.3055555555555556
+authority	participation	0.3333333333333333
+avi	wmv	0.7
+avi	mov	0.5151515151515151
+awareness	participation	0.37777777777777777
+awareness	understanding	0.3125
+awareness	morality	0.3111111111111111
+awareness	spirituality	0.3023255813953488
+azalea	rhododendron	0.34782608695652173
+baccarat	roulette	0.30612244897959184
+backhoe	loader	0.4444444444444444
+backhoe	excavator	0.39473684210526316
+backpack	sleeping bag	0.3023255813953488
+bacterium	virus	0.34986945169712796
+bahamas	jamaica	0.3333333333333333
+bahamas	mauritius	0.3055555555555556
+baltimore	st louis	0.40625
+baltimore	cleveland	0.3333333333333333
+bangladesh	pakistan	0.3557692307692308
+bank of america	wells fargo	0.4
+bank statement	receipt	0.3137254901960784
+bankruptcy	insolvency	0.34710743801652894
+barclays	citibank	0.3090909090909091
+barley	wheat	0.32608695652173914
+barnes	barnes noble	0.3142857142857143
+baseball	volleyball	0.3228346456692913
+basketball	volleyball	0.3872832369942196
+basketball	baseball	0.35911602209944754
+basketball	tennis	0.33183856502242154
+batman	superman	0.36
+bayer	fujitsu	0.30303030303030304
+bee	wasp	0.3230769230769231
+beetle	moth	0.3333333333333333
+beijing	shanghai	0.5675675675675675
+belgium	norway	0.32456140350877194
+benadryl	claritin	0.34210526315789475
+benchmarking	recycling	0.3170731707317073
+benchmarking	coaching	0.3137254901960784
+berlin	d c	0.3333333333333333
+best buy	staples	0.3023255813953488
+biodiversity	water quality	0.3037974683544304
+biofuel	wind energy	0.3023255813953488
+biogas	hydro	0.3076923076923077
+bioinformatic	molecular biology	0.34285714285714286
+birmingham	manchester	0.5869565217391305
+birmingham	sydney	0.3181818181818182
+birth certificate	marriage certificate	0.32653061224489793
+birth record	death record	0.5163934426229508
+birth record	census record	0.48717948717948717
+birth record	marriage record	0.47333333333333333
+birth record	obituary	0.42168674698795183
+birthday	anniversary	0.41
+bison	antelope	0.34782608695652173
+bisphenol a	phthalate	0.35
+black bear	cougar	0.3611111111111111
+black pepper	clove	0.32558139534883723
+black pepper	chilli	0.3055555555555556
+blackjack	roulette	0.5555555555555556
+blackjack	poker	0.3392857142857143
+blackjack	baccarat	0.3333333333333333
+blindness	deafness	0.31746031746031744
+blog	blogs	0.3469387755102041
+blue	green	0.30434782608695654
+bluegill	largemouth bass	0.38235294117647056
+bmp	tiff	0.4
+bmp	png	0.3404255319148936
+bmw	audi	0.4351145038167939
+bob dylan	stevie wonder	0.3684210526315789
+bob dylan	jimi hendrix	0.3333333333333333
+bob dylan	eric clapton	0.30434782608695654
+body mass index	bmi	0.3458646616541353
+body weight	bmi	0.3090909090909091
+boeing	general electric	0.37
+boeing	lockheed martin	0.33783783783783783
+bold	italic	0.4444444444444444
+bolivia	costa rica	0.35135135135135137
+bolivia	peru	0.3333333333333333
+boston	seattle	0.3939393939393939
+boston	philadelphia	0.3561643835616438
+boston	pittsburgh	0.3064516129032258
+botswana	zimbabwe	0.35294117647058826
+bp	chevron	0.38636363636363635
+bp	exxonmobil	0.37662337662337664
+brazil	india	0.3089005235602094
+bristol	birmingham	0.4
+bristol	manchester	0.38636363636363635
+bristol	liverpool	0.37209302325581395
+britney spears	madonna	0.36363636363636365
+britney spears	kanye west	0.3333333333333333
+britney spears	taylor swift	0.3235294117647059
+brochure	flyer	0.3615819209039548
+brother	sister	0.43243243243243246
+brown rice	oatmeal	0.31932773109243695
+bulgaria	lithuania	0.3333333333333333
+burberry	chanel	0.4262295081967213
+burberry	ralph lauren	0.4090909090909091
+burberry	calvin klein	0.3953488372093023
+burberry	hugo boss	0.39473684210526316
+burberry	armani	0.38095238095238093
+burberry	gucci	0.3472222222222222
+burger king	mcdonald's	0.4482758620689655
+burger king	pizza hut	0.36538461538461536
+burger king	mcdonald s	0.32673267326732675
+burglary	robbery	0.37142857142857144
+business card	flyer	0.3017241379310345
+cabbage	broccoli	0.3684210526315789
+cabernet sauvignon	merlot	0.41935483870967744
+cable tv	cable television	0.3488372093023256
+cadmium	lead	0.30855018587360594
+cafeteria	conference room	0.32432432432432434
+cafeteria	lounge	0.3076923076923077
+calcium	potassium	0.30990415335463256
+calvin klein	hugo boss	0.375
+calvin klein	gucci	0.32
+calvin klein	dior	0.3125
+canada	united states	0.30749354005167956
+cane	walker	0.36363636363636365
+canoeing	kayaking	0.3711340206185567
+canoeing	sailing	0.3411764705882353
+canon	panasonic	0.30985915492957744
+capacitor	resistor	0.4434782608695652
+capacity	accessibility	0.36904761904761907
+capacity building	recycling	0.3684210526315789
+capacity building	awareness	0.3488372093023256
+capacity building	certification	0.32558139534883723
+capacity building	accreditation	0.3235294117647059
+capacity building	benchmarking	0.3157894736842105
+capacity building	incentive	0.3111111111111111
+capacity building	outreach	0.3055555555555556
+carbamazepine	phenytoin	0.5416666666666666
+carbamazepine	phenobarbital	0.32
+carboplatin	cisplatin	0.3424657534246575
+carboxymethyl cellulose	methyl cellulose	0.375
+cardamom	clove	0.36363636363636365
+cardamom	cumin	0.34285714285714286
+cardiology	oncology	0.3170731707317073
+cardiology	orthopedic	0.3076923076923077
+caring	determination	0.42105263157894735
+caring	passion	0.39473684210526316
+caring	perseverance	0.38636363636363635
+caring	professionalism	0.38235294117647056
+caring	enthusiasm	0.38235294117647056
+caring	wisdom	0.3783783783783784
+caring	morality	0.3783783783783784
+caring	understanding	0.375
+caring	commitment	0.3728813559322034
+caring	gratitude	0.37142857142857144
+caring	dependability	0.3684210526315789
+caring	curiosity	0.35714285714285715
+caring	humility	0.35714285714285715
+caring	humor	0.3488372093023256
+caring	forgiveness	0.34782608695652173
+caring	trustworthiness	0.34285714285714286
+caring	honor	0.32608695652173914
+caring	assertiveness	0.325
+caring	altruism	0.32432432432432434
+caring	patience	0.32075471698113206
+caring	loyalty	0.31746031746031744
+caring	competence	0.3157894736842105
+caring	confidence	0.3125
+caring	compassion	0.3076923076923077
+caring	self awareness	0.3055555555555556
+caring	independence	0.3050847457627119
+caring	duty	0.3023255813953488
+carpenter	electrician	0.34146341463414637
+carrageenan	xanthan gum	0.5
+carrageenan	gum arabic	0.3684210526315789
+carrageenan	agar	0.3333333333333333
+carrageenan	guar gum	0.3333333333333333
+carrageenan	pectin	0.3018867924528302
+case management	advocacy	0.3170731707317073
+catalase	superoxide dismutase	0.6049382716049383
+cattle	sheep	0.43506493506493504
+cattle	goat	0.34838709677419355
+cattle	cow	0.32575757575757575
+cauliflower	cabbage	0.3916083916083916
+cauliflower	brussels sprout	0.30952380952380953
+cauliflower	broccoli	0.305
+cbs	abc	0.44
+ccj	arrear	0.35185185185185186
+ccjs	iva	0.875
+ccjs	arrears	0.7419354838709677
+ccjs	insolvency	0.5111111111111111
+cell division	cell proliferation	0.3235294117647059
+cell proliferation	proliferation	0.34545454545454546
+cellphone	ipods	0.3488372093023256
+cellular telephone	mobile telephone	0.30952380952380953
+chainsaw	mower	0.375
+chanel	gucci	0.4482758620689655
+chanel	dior	0.38461538461538464
+chart	graph	0.37142857142857144
+checking account	savings account	0.34375
+cheetah	leopard	0.40816326530612246
+cheetah	lynx	0.30434782608695654
+chemistry	biology	0.39285714285714285
+chemotherapy	radiotherapy	0.34
+chicago	philadelphia	0.31958762886597936
+chicken pox	measles	0.38095238095238093
+chicken pox	measle	0.30303030303030304
+chickpea	cowpea	0.3055555555555556
+child support	alimony	0.47619047619047616
+childcare	child care	0.34444444444444444
+chiropractor	physiotherapist	0.425
+chiropractor	physical therapist	0.39473684210526316
+chiropractor	occupational therapist	0.38095238095238093
+chlamydia	gonorrhea	0.4222222222222222
+chloroform	carbon tetrachloride	0.32673267326732675
+chlorpromazine	haloperidol	0.3246753246753247
+christianity	judaism	0.37209302325581395
+christmas	easter	0.42105263157894735
+chrysler	general motors	0.3108108108108108
+cigarette smoking	alcohol consumption	0.3563218390804598
+cigarette smoking	tobacco use	0.3384615384615385
+cigarette smoking	physical inactivity	0.3181818181818182
+cigna	blue cross	0.4482758620689655
+cilantro	chive	0.3333333333333333
+cilantro	parsley	0.31343283582089554
+cinderella	snow white	0.32608695652173914
+circle	rectangle	0.35507246376811596
+circle	triangle	0.3088235294117647
+cisco	hp	0.3090909090909091
+citigroup	bank of america	0.34523809523809523
+citigroup	citibank	0.32786885245901637
+citigroup	wells fargo	0.3230769230769231
+citigroup	barclays	0.3076923076923077
+clam	mussel	0.38235294117647056
+clam	scallop	0.3333333333333333
+clam	oyster	0.3229166666666667
+clarity	functionality	0.3488372093023256
+clarity	coherence	0.325
+classification	clustering	0.30708661417322836
+clean water	clean air	0.3181818181818182
+cleanliness	aesthetic	0.3404255319148936
+cleanliness	accessibility	0.3050847457627119
+cleanliness	convenience	0.3023255813953488
+cleft palate	cleft lip	0.38235294117647056
+cleveland	st louis	0.3783783783783784
+clothes	clothe	0.36036036036036034
+cloud cover	wind direction	0.39473684210526316
+cloud cover	air temperature	0.3114754098360656
+clozapine	olanzapine	0.6764705882352942
+clozapine	risperidone	0.48717948717948717
+cnn	bbc	0.34558823529411764
+co2	co 2	0.38333333333333336
+coaching	recycling	0.3018867924528302
+coat	jacket	0.3411764705882353
+coca-cola	nestle	0.35185185185185186
+coca-cola	mcdonald's	0.3333333333333333
+coca-cola	procter gamble	0.32727272727272727
+coca-cola	pepsi	0.32075471698113206
+cod	halibut	0.3194444444444444
+coffee	tea	0.4583333333333333
+coffee maker	toaster	0.3103448275862069
+coffee maker	kettle	0.3023255813953488
+coffee shop	cafe	0.32075471698113206
+cognitive behavioural therapy	cbt	0.3333333333333333
+coherence	cost effectiveness	0.37142857142857144
+coherence	effectiveness	0.3409090909090909
+coherence	positive	0.32432432432432434
+coherence	visibility	0.30434782608695654
+collard	collard green	0.45161290322580644
+collard	bok choy	0.43333333333333335
+collard	watercress	0.40625
+collard green	bok choy	0.5714285714285714
+college	university	0.3235294117647059
+colombia	peru	0.37254901960784315
+colombia	argentina	0.35714285714285715
+colombia	ecuador	0.3333333333333333
+colombia	costa rica	0.3333333333333333
+colorant	wetting agent	0.32653061224489793
+comfort	aesthetic	0.38181818181818183
+comfort	effectiveness	0.35185185185185186
+comfort	reputation	0.3508771929824561
+comfort	accessibility	0.34328358208955223
+comfort	consistency	0.3333333333333333
+comfort	cost effectiveness	0.3191489361702128
+comfort	simplicity	0.31666666666666665
+comfort	portability	0.3125
+comfort	convenience	0.3018867924528302
+commerce	public health	0.34545454545454546
+commerce	defense	0.3026315789473684
+commitment	independence	0.358974358974359
+commitment	perseverance	0.34328358208955223
+commitment	loyalty	0.3176470588235294
+commitment	responsibility	0.308411214953271
+commitment	tolerance	0.3068181818181818
+communication skill	team work	0.3488372093023256
+communication skill	assertiveness	0.34782608695652173
+communication skill	self awareness	0.3333333333333333
+community center	public library	0.30612244897959184
+comorbidity	patient age	0.3877551020408163
+comorbidity	smoking status	0.3333333333333333
+compaq	acer	0.47058823529411764
+compaq	lenovo	0.42857142857142855
+compaq	toshiba	0.38461538461538464
+compaq	fujitsu	0.3055555555555556
+compassion	loyalty	0.3333333333333333
+compassion	perseverance	0.323943661971831
+compassion	respect	0.3119266055045872
+completeness	continuity	0.34210526315789475
+complexity	accessibility	0.3076923076923077
+compost	manure	0.3068181818181818
+compuserve	prodigy	0.5714285714285714
+computed tomography	magnetic resonance imaging	0.49056603773584906
+computed tomography	ct	0.3706896551724138
+computerized tomography	magnetic resonance	0.35
+conductivity	turbidity	0.3181818181818182
+conference	seminar	0.31952662721893493
+confidence	self esteem	0.37362637362637363
+confidence	self confidence	0.359375
+confidence	commitment	0.34523809523809523
+confidence	perseverance	0.32857142857142857
+confidence	creativity	0.31958762886597936
+confidence	empathy	0.3076923076923077
+congestive heart failure	heart failure	0.32456140350877194
+connectivity	accessibility	0.32432432432432434
+connectivity	visibility	0.30158730158730157
+conservation	recycling	0.36585365853658536
+consistency	accessibility	0.34285714285714286
+continental	goodyear	0.36363636363636365
+contrast	brightness	0.3902439024390244
+convenience	expertise	0.3170731707317073
+convenience store	gas station	0.3392857142857143
+convenience store	grocery store	0.3108108108108108
+copd	chronic obstructive pulmonary disease	0.42857142857142855
+copying	faxing	0.31645569620253167
+coral reef	mangrove	0.35294117647058826
+corn oil	sunflower oil	0.5161290322580645
+corn oil	canola oil	0.3157894736842105
+coronary artery disease	coronary heart disease	0.3333333333333333
+coronary artery disease	heart failure	0.3047619047619048
+cost effectiveness	convenience	0.375
+cost effectiveness	effectiveness	0.37209302325581395
+cost effectiveness	portability	0.3611111111111111
+cost effectiveness	expertise	0.34285714285714286
+cost effectiveness	cleanliness	0.32432432432432434
+cost effectiveness	longevity	0.32432432432432434
+cost effectiveness	consistency	0.32
+cost effectiveness	robustness	0.30952380952380953
+costco	wal-mart	0.37362637362637363
+costco	home depot	0.3020833333333333
+cottonwood	alder	0.35294117647058826
+cottonwood	willow	0.3064516129032258
+cottonwood	elm	0.30303030303030304
+cougar	cheetah	0.4722222222222222
+cougar	leopard	0.3877551020408163
+cougar	lynx	0.37209302325581395
+cougar	bobcat	0.32558139534883723
+cougar	lion	0.31746031746031744
+counselling	counseling	0.3333333333333333
+courage	perseverance	0.3076923076923077
+courage	loyalty	0.3048780487804878
+coyote	raccoon	0.3023255813953488
+cr	ni	0.4189189189189189
+croatia	bulgaria	0.3902439024390244
+croatia	lithuania	0.3235294117647059
+crocodile	alligator	0.3409090909090909
+crohn s disease	ulcerative colitis	0.5
+crohn s disease	crohn's disease	0.38666666666666666
+crohn s disease	celiac disease	0.30120481927710846
+crohn's disease	ulcerative colitis	0.4230769230769231
+crohn's disease	celiac disease	0.34782608695652173
+crp	c reactive protein	0.46153846153846156
+cruise control	power window	0.32558139534883723
+crustacean	mollusk	0.4772727272727273
+css	html	0.30434782608695654
+cupcake	donut	0.35294117647058826
+curcumin	resveratrol	0.36231884057971014
+curiosity	enthusiasm	0.3333333333333333
+curiosity	determination	0.3111111111111111
+customer	supplier	0.37719298245614036
+cvs	walgreens	0.3870967741935484
+cylinder	sphere	0.3333333333333333
+cyprus	mauritius	0.34285714285714286
+cyprus	croatia	0.3235294117647059
+cyprus	bulgaria	0.30434782608695654
+czech republic	hungary	0.55
+czech republic	slovakia	0.4444444444444444
+czech republic	bulgaria	0.4423076923076923
+czech republic	poland	0.42857142857142855
+czech republic	romania	0.36507936507936506
+czech republic	estonia	0.3137254901960784
+czech republic	lithuania	0.3125
+czech republic	latvia	0.30434782608695654
+czech republic	croatia	0.30434782608695654
+d c	cleveland	0.35135135135135137
+daffodil	tulip	0.5
+daily	weekly	0.38235294117647056
+daily	monthly	0.3611111111111111
+dallas	denver	0.38095238095238093
+dallas	baltimore	0.3684210526315789
+dallas	d c	0.35135135135135137
+dallas	cleveland	0.3488372093023256
+dallas	seattle	0.3469387755102041
+dallas	st louis	0.34210526315789475
+dallas	pittsburgh	0.34146341463414637
+dallas	detroit	0.3191489361702128
+dallas	philadelphia	0.30357142857142855
+dance	drama	0.30845771144278605
+data analysis	data collection	0.425
+data analysis	interpretation	0.37142857142857144
+data analysis	strategic planning	0.36585365853658536
+data analysis	forecasting	0.36363636363636365
+data analysis	quality control	0.35555555555555557
+data analysis	localization	0.3333333333333333
+data analysis	auditing	0.32653061224489793
+data analysis	optimization	0.32558139534883723
+data analysis	change management	0.32432432432432434
+data analysis	market research	0.3170731707317073
+data analysis	synthesis	0.30952380952380953
+data analysis	editing	0.3090909090909091
+data analysis	product design	0.3076923076923077
+data entry	typing	0.3026315789473684
+death certificate	marriage certificate	0.38235294117647056
+death record	census record	0.5144927536231884
+decision making	team work	0.32142857142857145
+delusion	hallucination	0.3125
+dendritic cell	macrophage	0.4050632911392405
+dengue	dengue fever	0.38636363636363635
+denmark	belgium	0.5
+denmark	netherlands	0.4628099173553719
+denmark	norway	0.3783783783783784
+denmark	switzerland	0.3389830508474576
+denmark	ireland	0.3275862068965517
+dental implant	teeth whitening	0.3333333333333333
+denver	d c	0.42857142857142855
+denver	cleveland	0.38095238095238093
+denver	baltimore	0.3684210526315789
+denver	st louis	0.34210526315789475
+denver	sydney	0.325
+denver	toronto	0.32075471698113206
+dependability	determination	0.42105263157894735
+dependability	perseverance	0.35555555555555557
+dependability	enthusiasm	0.34285714285714286
+dependability	self awareness	0.34285714285714286
+dependability	self confidence	0.34146341463414637
+dependability	adaptability	0.32608695652173914
+dependability	punctuality	0.32558139534883723
+dependability	trustworthiness	0.3055555555555556
+depression	anxiety	0.4894810659186536
+determination	perseverance	0.4318181818181818
+determination	enthusiasm	0.3611111111111111
+determination	trustworthiness	0.3611111111111111
+determination	self confidence	0.32558139534883723
+determination	self awareness	0.32432432432432434
+determination	adaptability	0.3125
+determination	punctuality	0.3111111111111111
+determination	initiative	0.3111111111111111
+determination	assertiveness	0.30952380952380953
+detroit	cleveland	0.5121951219512195
+detroit	denver	0.3191489361702128
+detroit	st louis	0.30952380952380953
+deutsche bank	barclays	0.36
+deutsche bank	citigroup	0.3275862068965517
+deutsche bank	jp morgan	0.3076923076923077
+deutsche bank	citibank	0.30612244897959184
+dexamethasone	prednisone	0.3023255813953488
+diabetic retinopathy	age related macular degeneration	0.3125
+diarrhea	vomiting	0.3218884120171674
+differentiation	cell proliferation	0.35185185185185186
+differentiation	proliferation	0.32
+dignity	morality	0.34285714285714286
+dignity	fairness	0.31666666666666665
+dignity	equality	0.3157894736842105
+dignity	participation	0.3157894736842105
+dining room	living room	0.4222222222222222
+dining room	lounge	0.3611111111111111
+diode	transistor	0.30701754385964913
+dior	hugo boss	0.3023255813953488
+dioxin	polychlorinated biphenyl	0.36585365853658536
+dispersant	wetting agent	0.3684210526315789
+disposable diaper	sanitary napkin	0.30612244897959184
+dissolved oxygen	turbidity	0.3246753246753247
+dissolved oxygen	conductivity	0.30337078651685395
+diversity	accessibility	0.3253012048192771
+diving	surfing	0.3333333333333333
+dna methylation	histone modification	0.4146341463414634
+dog	cat	0.4604651162790698
+domain	expertise	0.3142857142857143
+dopamine	serotonin	0.3017241379310345
+doughnut	donut	0.34285714285714286
+driver s license	passport	0.3416666666666667
+dropbox	google drive	0.38235294117647056
+drosophila	c elegans	0.35555555555555557
+drosophila melanogaster	drosophila	0.4318181818181818
+drosophila melanogaster	c elegans	0.375
+drupal	wordpress	0.4057971014492754
+duty	morality	0.30952380952380953
+dvds	cds	0.41732283464566927
+dye	pigment	0.3333333333333333
+dysentery	typhoid	0.3181818181818182
+dyslipidemia	hypercholesterolemia	0.32926829268292684
+e mail address	telephone number	0.3492063492063492
+e-mail	e mail	0.30097087378640774
+eagle	hawk	0.3275862068965517
+earring	bracelet	0.3968253968253968
+ease of use	portability	0.40476190476190477
+ease of use	accessibility	0.36507936507936506
+ease of use	comfort	0.3584905660377358
+ease of use	cost effectiveness	0.3488372093023256
+ease of use	simplicity	0.3392857142857143
+ease of use	effectiveness	0.3269230769230769
+ease of use	convenience	0.32653061224489793
+ease of use	longevity	0.3111111111111111
+ease of use	aesthetic	0.3090909090909091
+eating disorder	post traumatic stress disorder	0.3382352941176471
+echinacea	black cohosh	0.3333333333333333
+echinacea	ginkgo biloba	0.3157894736842105
+echinacea	licorice	0.3023255813953488
+ecology	molecular biology	0.30952380952380953
+economics	computer science	0.3137254901960784
+ecuador	peru	0.4222222222222222
+ecuador	bolivia	0.38461538461538464
+ecuador	costa rica	0.3488372093023256
+ecuador	venezuela	0.31666666666666665
+education level	level of education	0.4461538461538462
+education level	educational level	0.44594594594594594
+education level	occupation	0.373015873015873
+education level	household income	0.3472222222222222
+education level	household size	0.328125
+education level	income level	0.3230769230769231
+educational attainment	income level	0.37209302325581395
+educational attainment	household size	0.3488372093023256
+educational level	level of education	0.38333333333333336
+educational level	socio economic status	0.3389830508474576
+educational level	occupation	0.32786885245901637
+educational level	income level	0.3157894736842105
+effectiveness	consistency	0.375
+effectiveness	participation	0.3404255319148936
+effectiveness	accessibility	0.3181818181818182
+effectiveness	simplicity	0.3103448275862069
+effectiveness	aesthetic	0.30357142857142855
+efficiency	accessibility	0.33636363636363636
+egret	heron	0.5
+egyptians	greeks	0.5161290322580645
+elderly	pregnant woman	0.30434782608695654
+electron microscopy	atomic force microscopy	0.3137254901960784
+elk	moose	0.38028169014084506
+elk	bison	0.36923076923076925
+elk	deer	0.3416666666666667
+elton john	michael jackson	0.3939393939393939
+elton john	stevie wonder	0.3939393939393939
+elton john	bob dylan	0.37142857142857144
+elton john	rolling stones	0.3333333333333333
+elvis presley	michael jackson	0.3684210526315789
+elvis presley	bob dylan	0.35
+email	e mail	0.30112359550561796
+email address	phone number	0.3305785123966942
+embarrassment	shame	0.4074074074074074
+emphysema	chronic bronchitis	0.3582089552238806
+emphysema	copd	0.3103448275862069
+employment status	education level	0.44285714285714284
+employment status	level of education	0.4
+employment status	income level	0.38
+employment status	household income	0.3559322033898305
+employment status	educational level	0.34328358208955223
+employment status	household size	0.3333333333333333
+employment status	family size	0.32075471698113206
+empowerment	morality	0.3333333333333333
+empowerment	accountability	0.31343283582089554
+empowerment	participation	0.3111111111111111
+emulsifier	wetting agent	0.3541666666666667
+emulsifier	preservative	0.3235294117647059
+encapsulation	polymorphism	0.3076923076923077
+endocarditis	osteomyelitis	0.3333333333333333
+engineer	architect	0.3308270676691729
+enterprise resource planning	customer relationship management	0.3333333333333333
+enthusiasm	self awareness	0.3548387096774194
+enthusiasm	optimism	0.3333333333333333
+enthusiasm	perseverance	0.3023255813953488
+enthusiasm	adaptability	0.3023255813953488
+envy	hatred	0.3111111111111111
+enzyme linked immunosorbent assay	elisa	0.30666666666666664
+ericsson	philips	0.3050847457627119
+erythrocyte sedimentation rate	complete blood count	0.3235294117647059
+estonia	lithuania	0.4444444444444444
+estonia	croatia	0.3611111111111111
+estonia	bulgaria	0.3333333333333333
+ethane	butane	0.373134328358209
+ethiopia	zimbabwe	0.36538461538461536
+ethyl	methyl	0.3157894736842105
+ethylbenzene	xylene	0.3064516129032258
+etoposide	gemcitabine	0.34285714285714286
+eu	european union	0.3925233644859813
+evaluation	analysis	0.3008130081300813
+excel	word	0.3380281690140845
+external hard drive	flash drive	0.3611111111111111
+exxonmobil	chevron	0.3870967741935484
+eye contact	body language	0.4666666666666667
+facebook	twitter	0.4827586206896552
+facial expression	eye contact	0.3194444444444444
+facial expression	body language	0.30985915492957744
+factor analysis	cluster analysis	0.3275862068965517
+fairness	accountability	0.3103448275862069
+fairness	respect	0.3055555555555556
+family income	household size	0.35
+family income	household income	0.32
+family income	income level	0.30952380952380953
+family income	educational attainment	0.30434782608695654
+family income	family size	0.3023255813953488
+fastener	strap	0.30612244897959184
+feature	purpose	0.3404255319148936
+feeling	mission	0.3157894736842105
+fiji	maldives	0.3333333333333333
+fiji	mauritius	0.3333333333333333
+fiji	bahamas	0.3235294117647059
+fiji	cyprus	0.3235294117647059
+financial institution	government agency	0.3103448275862069
+financing	funding	0.30303030303030304
+finland	denmark	0.41304347826086957
+finland	belgium	0.3333333333333333
+finland	netherlands	0.3253968253968254
+finland	ireland	0.3211009174311927
+finland	norway	0.3119266055045872
+fire department	police department	0.32558139534883723
+firefighter	police officer	0.4411764705882353
+flac	wav	0.3181818181818182
+flash drive	usb flash drive	0.4186046511627907
+flavonoid	alkaloid	0.3717948717948718
+flea	tick	0.3125
+flocculation	coagulation	0.32558139534883723
+flood	drought	0.34324324324324323
+folic acid	vitamin d	0.3333333333333333
+folic acid	folate	0.3018867924528302
+food service	catering	0.3148148148148148
+football	basketball	0.4479638009049774
+football	soccer	0.38461538461538464
+football	baseball	0.34054054054054056
+football	volleyball	0.3010752688172043
+forbes	wall street journal	0.30985915492957744
+ford	general motors	0.3732394366197183
+foreclosure	insolvency	0.6060606060606061
+foreclosure	arrear	0.37662337662337664
+foreclosure	bankruptcy	0.35074626865671643
+foreclosure	ccjs	0.34375
+foreclosure	arrears	0.3333333333333333
+foreclosure	iva	0.31746031746031744
+forest fire	wildfire	0.3389830508474576
+forgiveness	morality	0.35555555555555557
+forgiveness	perseverance	0.3148148148148148
+forgiveness	compassion	0.3013698630136986
+fork	spoon	0.35135135135135137
+forum	blogs	0.33884297520661155
+fox news	msnbc	0.32558139534883723
+france	germany	0.42168674698795183
+frank sinatra	stevie wonder	0.3157894736842105
+freddie mac	fannie mae	0.75
+french	spanish	0.32432432432432434
+french fries	fries	0.358974358974359
+fruit juice	juice	0.3050847457627119
+frustration	shame	0.323943661971831
+functionality	cleanliness	0.35
+functionality	comfort	0.34
+functionality	reputation	0.3333333333333333
+functionality	effectiveness	0.3333333333333333
+functionality	cost effectiveness	0.325
+functionality	aesthetic	0.3137254901960784
+functionality	ease of use	0.3125
+functionality	scope	0.3076923076923077
+functionality	accessibility	0.3064516129032258
+fundraising	strategic planning	0.325
+fundraising	business development	0.3142857142857143
+future	option	0.3617021276595745
+gasification	pyrolysis	0.4482758620689655
+geese	duck	0.4125
+gemcitabine	taxane	0.3157894736842105
+gender	age	0.41234347048300535
+general electric	siemens	0.36082474226804123
+general electric	general motors	0.32038834951456313
+geothermal	wind energy	0.38095238095238093
+geothermal	hydro	0.3409090909090909
+geothermal	hydropower	0.325
+gestational diabetes	pre eclampsia	0.3333333333333333
+ghana	ethiopia	0.4262295081967213
+ghana	kenya	0.4050632911392405
+ghana	tanzania	0.3770491803278688
+ghana	uganda	0.3492063492063492
+ghana	zimbabwe	0.3448275862068966
+ghana	zambia	0.32727272727272727
+ghana	nigeria	0.3137254901960784
+giardia	cryptosporidium	0.425
+ginkgo biloba	black cohosh	0.375
+giraffe	antelope	0.41025641025641024
+glaucoma	cataract	0.3700787401574803
+gm	chrysler	0.3584905660377358
+gm	general motors	0.32142857142857145
+gmail	hotmail	0.37037037037037035
+goggle	safety glass	0.32857142857142857
+gold	silver	0.38028169014084506
+goldman sachs	morgan stanley	0.30985915492957744
+golf	tennis	0.33163265306122447
+grammar	spelling	0.3013698630136986
+graph	diagram	0.3006535947712418
+grasshopper	moth	0.3157894736842105
+gratitude	enthusiasm	0.34375
+grief	worry	0.3230769230769231
+grief	frustration	0.32
+guar gum	xanthan gum	0.4186046511627907
+guar gum	gum arabic	0.37777777777777777
+guar gum	pectin	0.3620689655172414
+guardian	huffington post	0.3125
+guava	papaya	0.36363636363636365
+guilt	shame	0.4166666666666667
+guinea pig	hamster	0.5357142857142857
+gull	egret	0.38235294117647056
+gull	heron	0.3333333333333333
+gutter	siding	0.3275862068965517
+habitat for humanity	united way	0.45454545454545453
+habitat for humanity	american cancer society	0.3055555555555556
+haddock	halibut	0.30952380952380953
+hail	thunderstorm	0.34782608695652173
+hairspray	hair spray	0.35
+ham	sausage	0.3111111111111111
+ham	bacon	0.30097087378640774
+hamilton	madison	0.3235294117647059
+handbag	purse	0.37681159420289856
+happiness	joy	0.3150684931506849
+happiness	hope	0.31343283582089554
+hard hat	safety glass	0.32
+harmony	participation	0.30952380952380953
+harvard	stanford	0.43859649122807015
+headache	dizziness	0.3076923076923077
+health care	healthcare	0.38636363636363635
+health education	capacity building	0.3157894736842105
+heart disease	high blood pressure	0.30434782608695654
+heart problem	chronic pain	0.3148148148148148
+heartburn	bloating	0.375
+height	weight	0.37037037037037035
+helium	argon	0.3644067796610169
+hemp	flax	0.3076923076923077
+hepatitis b	hepatitis c	0.35
+heptane	pentane	0.42105263157894735
+hertz	avis	0.6486486486486487
+hewlett packard	siemens	0.32989690721649484
+hewlett packard	hp	0.30656934306569344
+hewlett packard	dell	0.30344827586206896
+hewlett-packard	compaq	0.40540540540540543
+hewlett-packard	hewlett packard	0.373134328358209
+hewlett-packard	fujitsu	0.3611111111111111
+hewlett-packard	honeywell	0.34782608695652173
+hewlett-packard	ericsson	0.3125
+hexane	heptane	0.34375
+hexane	pentane	0.34328358208955223
+high cholesterol	heart problem	0.3333333333333333
+high wind	heavy rain	0.3387096774193548
+high wind	hail	0.3275862068965517
+hiking	camping	0.32051282051282054
+hiking	biking	0.3105590062111801
+hilton	marriott	0.47619047619047616
+hinduism	buddhism	0.4375
+hippocampus	amygdala	0.45454545454545453
+hitachi	nec	0.4117647058823529
+hitachi	fujitsu	0.4
+hitachi	toshiba	0.39622641509433965
+hitachi	mitsubishi	0.35294117647058826
+home depot	wal-mart	0.38317757009345793
+home depot	lowes	0.3026315789473684
+homeopathy	aromatherapy	0.3125
+honda	nissan	0.44680851063829785
+honda	bmw	0.3006134969325153
+honeywell	fujitsu	0.35714285714285715
+honor	morality	0.3333333333333333
+hope	morality	0.3333333333333333
+hope	gratitude	0.32608695652173914
+horse riding	mountain biking	0.3695652173913043
+hot dog	hamburger	0.3888888888888889
+hot flash	night sweat	0.3870967741935484
+household size	household income	0.3617021276595745
+household size	family size	0.3170731707317073
+houston	dallas	0.43478260869565216
+houston	pittsburgh	0.3695652173913043
+houston	baltimore	0.36363636363636365
+houston	seattle	0.34545454545454546
+houston	san diego	0.32075471698113206
+houston	boston	0.3142857142857143
+hp	dell	0.44242424242424244
+hsbc	barclays	0.37681159420289856
+hsbc	citibank	0.3582089552238806
+htc	lg	0.3253012048192771
+human resource management	purchasing	0.34375
+human rights watch	amnesty international	0.4482758620689655
+human rights watch	oxfam	0.32558139534883723
+humility	perseverance	0.40425531914893614
+humility	determination	0.37209302325581395
+humility	kindness	0.36538461538461536
+humility	courage	0.35
+humility	patience	0.3392857142857143
+humility	wisdom	0.3333333333333333
+humility	compassion	0.3235294117647059
+humility	commitment	0.30303030303030304
+humor	enthusiasm	0.325
+hungary	poland	0.47058823529411764
+hungary	bulgaria	0.40625
+hungary	slovakia	0.40350877192982454
+hungary	romania	0.3835616438356164
+hungary	estonia	0.36666666666666664
+hungary	denmark	0.3191489361702128
+hungary	austria	0.31521739130434784
+huntington s disease	amyotrophic lateral sclerosis	0.37777777777777777
+hurricane	tornado	0.3137254901960784
+hydrochloric acid	sulfuric acid	0.32098765432098764
+hydrochloric acid	phosphoric acid	0.3064516129032258
+hydropower	wind energy	0.42424242424242425
+hydroxyl	carboxyl	0.375
+hyperlipidemia	hypercholesterolemia	0.325
+hypertension	diabetes	0.36619718309859156
+hyperthyroidism	hypothyroidism	0.36231884057971014
+hyperthyroidism	thyroid disease	0.3023255813953488
+hypnosis	biofeedback	0.41333333333333333
+hyundai	nissan	0.36507936507936506
+hyundai	chrysler	0.3469387755102041
+hyundai	gm	0.3333333333333333
+ibm	microsoft	0.3638814016172507
+ibuprofen	acetaminophen	0.3230240549828179
+ict	computing	0.3076923076923077
+il 10	il 4	0.325
+illinois	minnesota	0.38095238095238093
+illinois	ohio	0.33962264150943394
+illinois	michigan	0.3333333333333333
+imf	international monetary fund	0.38596491228070173
+imf	un	0.3275862068965517
+imipramine	amitriptyline	0.4318181818181818
+import	export	0.3958333333333333
+income level	household income	0.3829787234042553
+income level	level of education	0.37777777777777777
+income level	household size	0.358974358974359
+income level	family size	0.34146341463414637
+independence	openness	0.328125
+independence	accountability	0.30120481927710846
+indexing	synchronization	0.3157894736842105
+india	china	0.3584558823529412
+indigestion	heartburn	0.36923076923076925
+indium	gallium	0.3142857142857143
+infant	pregnant woman	0.32142857142857145
+inflammatory bowel disease	celiac disease	0.3125
+infliximab	etanercept	0.5
+initiative	enthusiasm	0.3333333333333333
+initiative	self awareness	0.3333333333333333
+initiative	perseverance	0.32
+injection molding	extrusion	0.3018867924528302
+input	output	0.3387096774193548
+insecticide	herbicide	0.32075471698113206
+insertion	deletion	0.3333333333333333
+insolvency	iva	0.4772727272727273
+instrumentation	control system	0.3235294117647059
+integrity	honesty	0.40559440559440557
+intel	cisco	0.3333333333333333
+intel	dell	0.32222222222222224
+interest rate	inflation	0.3227848101265823
+interleukin	tumor necrosis factor	0.358974358974359
+interleukin	interleukin 6	0.34210526315789475
+interleukin 6	il 6	0.36538461538461536
+interoperability	maintainability	0.3333333333333333
+interpersonal skill	self awareness	0.4
+interpersonal skill	self confidence	0.3888888888888889
+interpersonal skill	initiative	0.3333333333333333
+interpersonal skill	communication skill	0.3333333333333333
+interpersonal skill	team work	0.3333333333333333
+interpersonal skill	enthusiasm	0.3125
+interpersonal skill	dependability	0.3055555555555556
+interpersonal skill	perseverance	0.3023255813953488
+inventory management	data analysis	0.3023255813953488
+ion exchange	solvent extraction	0.3333333333333333
+ionizing radiation	uv light	0.3076923076923077
+iphone	ipad	0.31875
+iraq	syria	0.3258426966292135
+ireland	belgium	0.34513274336283184
+ireland	greece	0.31851851851851853
+iridium	rhodium	0.37142857142857144
+ironman 2 slot machine game	ironman 2 slot machine	0.7692307692307693
+ironman 2 slots	ironman 2 slot machine	0.7692307692307693
+ironman 2 slots	ironman 2 slot machine game	0.76
+islam	judaism	0.47368421052631576
+islam	christianity	0.3829787234042553
+italy	france	0.37906137184115524
+italy	portugal	0.3443708609271523
+italy	germany	0.3286219081272085
+italy	belgium	0.3105590062111801
+italy	greece	0.30939226519337015
+italy	denmark	0.3067484662576687
+italy	netherlands	0.3020833333333333
+ito	indium tin oxide	0.3888888888888889
+itraconazole	fluconazole	0.52
+itraconazole	ketoconazole	0.4444444444444444
+jaguar	cougar	0.3333333333333333
+jaguar	leopard	0.3333333333333333
+jaguar	cheetah	0.32727272727272727
+jamaica	mauritius	0.34210526315789475
+jamaica	cuba	0.32653061224489793
+jamaica	costa rica	0.30952380952380953
+jamaica	sri lanka	0.3076923076923077
+jealousy	greed	0.4
+jimi hendrix	eric clapton	0.48717948717948717
+jimi hendrix	stevie wonder	0.3157894736842105
+johnson	martin	0.3333333333333333
+joomla	drupal	0.5333333333333333
+joomla	wordpress	0.42857142857142855
+journalism	social work	0.3404255319148936
+journalism	computer science	0.32608695652173914
+jp morgan	citibank	0.34146341463414637
+jpg	bmp	0.42857142857142855
+jpg	png	0.37209302325581395
+jpg	tiff	0.3333333333333333
+jpmorgan chase	wells fargo	0.3125
+kale	spinach	0.375
+kale	broccoli	0.3157894736842105
+kant	hobbes	0.4117647058823529
+kanye west	elton john	0.4
+kayak	canoe	0.32857142857142857
+kayaking	sailing	0.43023255813953487
+kayaking	scuba diving	0.3333333333333333
+kayaking	surfing	0.3103448275862069
+kayaking	snorkeling	0.30952380952380953
+kefir	sauerkraut	0.358974358974359
+kenya	ethiopia	0.40540540540540543
+kenya	zimbabwe	0.3380281690140845
+kenya	nigeria	0.32456140350877194
+kerosene	gasoline	0.3194444444444444
+ketoconazole	fluconazole	0.38596491228070173
+ketone	aldehyde	0.37
+kettle	toaster	0.37037037037037035
+kfc	burger king	0.5384615384615384
+kfc	mcdonald's	0.4482758620689655
+kfc	pizza hut	0.36538461538461536
+kidney disease	liver disease	0.41818181818181815
+kidney disease	kidney failure	0.3877551020408163
+kidney disease	chronic pain	0.37037037037037035
+kidney disease	lung disease	0.36585365853658536
+kidney disease	heart problem	0.3125
+kindness	courage	0.34328358208955223
+kindness	perseverance	0.3157894736842105
+kindness	compassion	0.3026315789473684
+knowledge	experience	0.30985915492957744
+koh	naoh	0.5
+koh	potassium hydroxide	0.3018867924528302
+lack of exercise	poor nutrition	0.40540540540540543
+laminate	hardwood	0.32
+laminin	fibronectin	0.46774193548387094
+landscape	portrait	0.33783783783783783
+las vegas	miami	0.3389830508474576
+las vegas	portland	0.3333333333333333
+las vegas	san diego	0.3333333333333333
+las vegas	d c	0.3333333333333333
+las vegas	atlanta	0.32075471698113206
+las vegas	seattle	0.3103448275862069
+las vegas	denver	0.3076923076923077
+late payment	ccjs	0.45454545454545453
+late payment	iva	0.4523809523809524
+late payment	arrears	0.42857142857142855
+late payment	insolvency	0.3548387096774194
+late payment	foreclosure	0.34210526315789475
+latin america	asia	0.4634146341463415
+latin america	middle east	0.3333333333333333
+latitude	longitude	0.6111111111111112
+latvia	estonia	0.5806451612903226
+latvia	lithuania	0.5
+latvia	croatia	0.4
+latvia	cyprus	0.3235294117647059
+laundry room	dining room	0.3333333333333333
+laundry room	lounge	0.3235294117647059
+leadership	teamwork	0.35365853658536583
+leaflet	pamphlet	0.36538461538461536
+leaflet	booklet	0.3333333333333333
+learning	perception	0.3103448275862069
+leeds	birmingham	0.35714285714285715
+leeds	liverpool	0.3333333333333333
+leeds	manchester	0.3191489361702128
+leek	artichoke	0.3157894736842105
+lenovo	acer	0.4634146341463415
+lenovo	toshiba	0.3225806451612903
+level of education	household size	0.4523809523809524
+level of education	household income	0.37735849056603776
+level of education	family size	0.3125
+lever	pulley	0.3018867924528302
+lg	samsung	0.36813186813186816
+lg	nokia	0.31896551724137934
+lg	motorola	0.3025210084033613
+libya	algeria	0.37735849056603776
+libya	sudan	0.32
+lice	tick	0.36363636363636365
+linearity	selectivity	0.30612244897959184
+linkedin	myspace	0.34210526315789475
+linseed	sesame	0.34285714285714286
+lion	leopard	0.39436619718309857
+lipopolysaccharide	lps	0.3275862068965517
+liposuction	facelift	0.3611111111111111
+liposuction	breast augmentation	0.32432432432432434
+liverpool	birmingham	0.36538461538461536
+liverpool	manchester	0.35714285714285715
+loader	excavator	0.43243243243243246
+local authority	local government	0.3220338983050847
+local authority	government agency	0.3064516129032258
+local government	nhs	0.3125
+localization	synchronization	0.34285714285714286
+localization	data collection	0.325
+locke	hobbes	0.38235294117647056
+london	paris	0.34959349593495936
+los angeles	seattle	0.35365853658536583
+los angeles	new york city	0.34408602150537637
+los angeles	boston	0.34375
+los angeles	san diego	0.3375
+los angeles	philadelphia	0.3111111111111111
+louis vuitton	gucci	0.4935064935064935
+louis vuitton	chanel	0.4788732394366197
+louis vuitton	burberry	0.46153846153846156
+louis vuitton	prada	0.3972602739726027
+louis vuitton	calvin klein	0.3448275862068966
+louis vuitton	dior	0.31666666666666665
+louis vuitton	ralph lauren	0.3114754098360656
+lowe s	lowes	0.4
+lowe s	home depot	0.3291139240506329
+lowe s	staples	0.30434782608695654
+loyalty	respect	0.3177570093457944
+lysine	arginine	0.36363636363636365
+mackerel	sardine	0.43820224719101125
+mackerel	herring	0.3150684931506849
+macy s	wal-mart	0.3010752688172043
+madonna	michael jackson	0.3191489361702128
+madrid	sydney	0.36363636363636365
+magnesium	calcium	0.43769968051118213
+magnesium	zinc	0.32142857142857145
+magnetic disk	optical disk	0.4838709677419355
+magnetic resonance imaging	ct	0.3360655737704918
+maintainability	usability	0.3103448275862069
+maintainability	robustness	0.30612244897959184
+malawi	liberia	0.3333333333333333
+malawi	ethiopia	0.32075471698113206
+malaysia	indonesia	0.40476190476190477
+mali	liberia	0.3142857142857143
+mali	ethiopia	0.30612244897959184
+mango	papaya	0.3153153153153153
+mannitol	sorbitol	0.3258426966292135
+marble	granite	0.3105263157894737
+marital status	education level	0.3816793893129771
+marital status	occupation	0.37209302325581395
+marital status	educational level	0.3076923076923077
+marital status	ethnicity	0.3025210084033613
+marker	crayon	0.31746031746031744
+market research	public relation	0.3191489361702128
+market research	strategic planning	0.3181818181818182
+market share	customer satisfaction	0.34782608695652173
+market share	profitability	0.3148148148148148
+marketing	finance	0.3435754189944134
+marriage record	obituary	0.8058823529411765
+marriage record	death record	0.620253164556962
+marriage record	census record	0.5806451612903226
+marxism	feminism	0.3055555555555556
+maryland	minnesota	0.3170731707317073
+massage therapy	music therapy	0.30952380952380953
+massage therapy	aromatherapy	0.3090909090909091
+mastercard	visa	0.3564356435643564
+maternal age	gestational age	0.4
+maternal age	patient age	0.32558139534883723
+mathematic	mathematics	0.3225806451612903
+mathematica	matlab	0.35
+maximum	minimum	0.5342465753424658
+maximum	average	0.345679012345679
+mcafee	norton	0.4722222222222222
+mcafee	symantec	0.3333333333333333
+mcdonald s	starbucks	0.32592592592592595
+mcdonald's	mcdonald s	0.3939393939393939
+mcdonald's	pizza hut	0.36363636363636365
+mean	standard deviation	0.4583333333333333
+measles	measle	0.375
+measles	diphtheria	0.3170731707317073
+meat	egg	0.30673316708229426
+mediation	arbitration	0.4065934065934066
+medicaid	medicare	0.46153846153846156
+medical expense	medical bill	0.3469387755102041
+meeting room	conference room	0.375
+menthol	camphor	0.36363636363636365
+mentoring	coaching	0.45161290322580644
+mercedes	mercedes benz	0.453125
+mercedes	audi	0.4
+mercedes	volkswagen	0.35064935064935066
+mercedes	bmw	0.3181818181818182
+mercedes	lexus	0.3148148148148148
+mercedes	porsche	0.3125
+mercedes	volvo	0.3076923076923077
+mercedes benz	audi	0.38961038961038963
+mercedes benz	chrysler	0.32727272727272727
+mercedes benz	bmw	0.3203125
+mercedes benz	porsche	0.31666666666666665
+merck	pfizer	0.4375
+merck	glaxosmithkline	0.3409090909090909
+mercury	cadmium	0.3285024154589372
+mercury	lead	0.3164983164983165
+metabolic syndrome	insulin resistance	0.3333333333333333
+metaphor	simile	0.47619047619047616
+methanol	ethanol	0.3888888888888889
+methylation	acetylation	0.48717948717948717
+methylene chloride	chloroform	0.31683168316831684
+miami	seattle	0.4
+miami	atlanta	0.39215686274509803
+miami	portland	0.3829787234042553
+miami	pittsburgh	0.375
+miami	boston	0.3380281690140845
+miami	philadelphia	0.3333333333333333
+miami	sydney	0.3333333333333333
+miami	houston	0.3275862068965517
+miami	san diego	0.32727272727272727
+miami	denver	0.3269230769230769
+miami	d c	0.32608695652173914
+miami	baltimore	0.3125
+miami	los angeles	0.3103448275862069
+miami	detroit	0.30357142857142855
+miami	vancouver	0.3018867924528302
+miami	dallas	0.3018867924528302
+michael jackson	stevie wonder	0.3888888888888889
+michael jackson	prince	0.32432432432432434
+michelin	goodyear	0.4
+michigan	minnesota	0.3333333333333333
+michigan	ohio	0.30357142857142855
+miconazole	clotrimazole	0.5
+microdermabrasion	chemical peel	0.4166666666666667
+microsoft sql server	sql server	0.32727272727272727
+miller	martin	0.3142857142857143
+millet	sorghum	0.34285714285714286
+mink	otter	0.34146341463414637
+minnesota	ohio	0.3137254901960784
+miso	tempeh	0.39473684210526316
+mitochondria	nucleus	0.3958333333333333
+molecular weight	solubility	0.32142857142857145
+molybdenum	vanadium	0.3076923076923077
+money laundering	drug trafficking	0.3888888888888889
+monocyte	dendritic cell	0.35294117647058826
+monocyte	macrophage	0.35064935064935066
+monthly	weekly	0.4666666666666667
+morality	participation	0.358974358974359
+morocco	tunisia	0.38636363636363635
+morocco	algeria	0.3333333333333333
+moses	david	0.32075471698113206
+mosquito	flea	0.3125
+moss	lichen	0.31746031746031744
+mother	father	0.3617021276595745
+motor oil	antifreeze	0.35294117647058826
+motorola	nokia	0.4594594594594595
+motorola	siemens	0.32727272727272727
+motorola	samsung	0.3096446700507614
+motorola	hewlett packard	0.3008849557522124
+motrin	advil	0.5223880597014925
+mov	wmv	0.45161290322580644
+mozambique	zambia	0.425
+mozambique	tanzania	0.4166666666666667
+mozambique	uganda	0.40816326530612246
+mozambique	rwanda	0.3673469387755102
+mozambique	liberia	0.358974358974359
+mozambique	malawi	0.35555555555555557
+mozambique	zimbabwe	0.34782608695652173
+mozambique	namibia	0.34146341463414637
+mozambique	ethiopia	0.33962264150943394
+mozambique	angola	0.3333333333333333
+mozambique	costa rica	0.3181818181818182
+mozambique	botswana	0.3018867924528302
+mozilla firefox	google chrome	0.5
+mp3 player	ipod	0.35526315789473684
+mp4	avi	0.4878048780487805
+mp4	wmv	0.4
+mp4	mov	0.34146341463414637
+mpeg	avi	0.34545454545454546
+mpeg 2	mpeg 4	0.34375
+mris	ct scan	0.37735849056603776
+msnbc	nbc	0.3333333333333333
+muffin	donut	0.3617021276595745
+muffin	bagel	0.3448275862068966
+mumbai	delhi	0.5263157894736842
+municipality	local government	0.31746031746031744
+music therapy	art therapy	0.5357142857142857
+mussel	oyster	0.375
+myalgia	arthralgia	0.4117647058823529
+myalgia	malaise	0.3191489361702128
+myopia	astigmatism	0.34210526315789475
+myth	romance	0.30303030303030304
+nacl	sodium chloride	0.30120481927710846
+namibia	botswana	0.4090909090909091
+namibia	zimbabwe	0.375
+nanotube	nanorod	0.32786885245901637
+nanowire	nanotube	0.4189189189189189
+nanowire	nanorod	0.40350877192982454
+naproxen	advil	0.35398230088495575
+naproxen	motrin	0.35051546391752575
+naproxen	ibuprofen	0.3333333333333333
+naproxen	aleve	0.3010752688172043
+nationality	profession	0.3137254901960784
+nausea	vomiting	0.3159509202453988
+nbc	cbs	0.5263157894736842
+nbc	abc	0.4
+nbc	mtv	0.34146341463414637
+nbc	espn	0.3076923076923077
+nec	fujitsu	0.34375
+necklace	bracelet	0.5217391304347826
+necklace	earring	0.453125
+neglect	physical abuse	0.4222222222222222
+neglect	child abuse	0.3384615384615385
+netherlands	belgium	0.4462809917355372
+networking	collaboration	0.30303030303030304
+neutropenia	thrombocytopenia	0.36538461538461536
+nevada	minnesota	0.32432432432432434
+nevada	colorado	0.3055555555555556
+new jersey	illinois	0.38461538461538464
+new jersey	maryland	0.35135135135135137
+new jersey	pennsylvania	0.3076923076923077
+new orleans	portland	0.4
+new orleans	miami	0.3617021276595745
+new orleans	st louis	0.35294117647058826
+new orleans	baltimore	0.34285714285714286
+new orleans	sydney	0.3333333333333333
+new orleans	vancouver	0.325
+new orleans	dallas	0.325
+new orleans	pittsburgh	0.3157894736842105
+new orleans	atlanta	0.30952380952380953
+new york city	boston	0.358974358974359
+new york city	philadelphia	0.35714285714285715
+new york city	san diego	0.3333333333333333
+new york city	seattle	0.3333333333333333
+new york city	detroit	0.3125
+new york city	pittsburgh	0.3050847457627119
+new york times	washington post	0.31683168316831684
+newspaper	magazine	0.3395061728395062
+nike	coca cola	0.30057803468208094
+nissan	chrysler	0.3684210526315789
+nissan	gm	0.3333333333333333
+nissan	mercedes benz	0.32857142857142857
+nissan	volkswagen	0.31645569620253167
+nitrogen oxide	sulfur dioxide	0.3108108108108108
+nmr	x ray crystallography	0.3111111111111111
+non steroidal anti inflammatory drug	nonsteroidal anti inflammatory drug	0.35
+norepinephrine	dopamine	0.3870967741935484
+nose	mouth	0.30864197530864196
+novel	short story	0.35185185185185186
+nsaids	non steroidal anti inflammatory drug	0.32608695652173914
+nuclear magnetic resonance	nmr	0.3023255813953488
+nurse	doctor	0.3035019455252918
+nutmeg	clove	0.3541666666666667
+o ring	o rings	0.3902439024390244
+obituary	death record	0.5941176470588235
+obituary	census record	0.5294117647058824
+observation	interview	0.3150684931506849
+obsessive compulsive disorder	mood disorder	0.30434782608695654
+occupation	ethnicity	0.3130434782608696
+occupational therapist	social worker	0.3291139240506329
+octopus	squid	0.41509433962264153
+olanzapine	risperidone	0.6388888888888888
+onion	garlic	0.3472803347280335
+opossum	raccoon	0.3548387096774194
+optic	instrumentation	0.3055555555555556
+oregano	sage	0.30434782608695654
+oregon	maryland	0.3888888888888889
+oregon	minnesota	0.35135135135135137
+oregon	d c	0.3333333333333333
+oregon	illinois	0.3170731707317073
+oregon	new jersey	0.3142857142857143
+osprey	heron	0.35135135135135137
+osprey	bald eagle	0.3142857142857143
+otter	badger	0.32558139534883723
+outsourcing	recycling	0.34782608695652173
+oval	rectangular	0.30434782608695654
+ownership	cleanliness	0.30612244897959184
+oxfam	amnesty international	0.3064516129032258
+oxford	cambridge	0.4166666666666667
+oxycodone	hydrocodone	0.5294117647058824
+packet loss	jitter	0.36
+pamphlet	booklet	0.32608695652173914
+panic disorder	obsessive compulsive disorder	0.3783783783783784
+panic disorder	post traumatic stress disorder	0.3409090909090909
+panic disorder	personality disorder	0.3333333333333333
+panic disorder	phobia	0.32432432432432434
+parkinson s	alzheimer s	0.4722222222222222
+parkinson s	parkinson's disease	0.40425531914893614
+parkinson s	alzheimer's disease	0.3269230769230769
+parkinson s disease	alzheimer s disease	0.4012738853503185
+passion	enthusiasm	0.4117647058823529
+passion	gratitude	0.32432432432432434
+passion	humor	0.3111111111111111
+pasta	bread	0.3333333333333333
+patience	perseverance	0.46296296296296297
+patience	compassion	0.33766233766233766
+patience	initiative	0.3157894736842105
+paxil	prozac	0.4772727272727273
+pb	cd	0.3269230769230769
+pcbs	dioxin	0.3829787234042553
+pcbs	polychlorinated biphenyl	0.3333333333333333
+peach	pear	0.31690140845070425
+pectin	gum arabic	0.3148148148148148
+pediatric	oncology	0.3055555555555556
+pencil	pen	0.40217391304347827
+pennsylvania	ohio	0.3076923076923077
+pepsi	nestle	0.3148148148148148
+pepsico	coca-cola	0.35714285714285715
+pepsico	procter gamble	0.3488372093023256
+pepsico	nestle	0.3488372093023256
+pepsico	pepsi	0.30952380952380953
+perseverance	independence	0.30303030303030304
+perseverance	trustworthiness	0.3023255813953488
+personality disorder	mood disorder	0.43243243243243246
+personality disorder	post traumatic stress disorder	0.38636363636363635
+personality disorder	obsessive compulsive disorder	0.358974358974359
+personality disorder	phobia	0.34210526315789475
+personality disorder	bipolar disorder	0.3103448275862069
+peru	costa rica	0.3953488372093023
+peru	sri lanka	0.30357142857142855
+pet dander	dust mite	0.3695652173913043
+petroleum jelly	vaseline	0.3181818181818182
+pfizer	glaxosmithkline	0.48936170212765956
+pharmacist	therapist	0.3389830508474576
+pharmacist	physiotherapist	0.3275862068965517
+pharmacist	occupational therapist	0.3220338983050847
+pharmacist	social worker	0.31521739130434784
+pheasant	quail	0.3902439024390244
+phenytoin	phenobarbital	0.4146341463414634
+philadelphia	seattle	0.3728813559322034
+philadelphia	pittsburgh	0.37254901960784315
+philadelphia	denver	0.35185185185185186
+philadelphia	baltimore	0.34
+philadelphia	d c	0.32653061224489793
+philadelphia	detroit	0.3050847457627119
+philadelphia	cleveland	0.30357142857142855
+philippines	indonesia	0.35570469798657717
+philippines	vietnam	0.3548387096774194
+philippines	malaysia	0.3108108108108108
+philippines	cambodia	0.30851063829787234
+philips	siemens	0.3291139240506329
+philips	panasonic	0.31343283582089554
+philosophy	economics	0.3064516129032258
+phobia	post traumatic stress disorder	0.375
+phobia	panic attack	0.325
+phoenix	seattle	0.3090909090909091
+phoenix	san diego	0.3076923076923077
+phoenix	denver	0.30612244897959184
+phoenix	portland	0.30434782608695654
+photoshop	adobe photoshop	0.336283185840708
+physic	chemistry	0.4411764705882353
+physic	biology	0.3838383838383838
+physical therapist	occupational therapist	0.425
+physical therapist	physiotherapist	0.4
+physical therapist	nurse practitioner	0.3333333333333333
+physician assistant	nurse practitioner	0.625
+physician assistant	physical therapist	0.35714285714285715
+physiotherapist	occupational therapist	0.4878048780487805
+pike	largemouth bass	0.3235294117647059
+pineapple	papaya	0.30612244897959184
+pittsburgh	detroit	0.475
+pittsburgh	cleveland	0.41025641025641024
+pittsburgh	st louis	0.37142857142857144
+pittsburgh	baltimore	0.3611111111111111
+pittsburgh	d c	0.34285714285714286
+pittsburgh	denver	0.34146341463414637
+pittsburgh	sydney	0.3157894736842105
+pittsburgh	birmingham	0.30434782608695654
+plasticizer	wetting agent	0.3076923076923077
+plato	aristotle	0.6666666666666666
+plier	screwdriver	0.3492063492063492
+plot	theme	0.3275862068965517
+plot	setting	0.30357142857142855
+plumber	electrician	0.5797101449275363
+plumber	carpenter	0.4
+poem	short story	0.3125
+poland	bulgaria	0.35443037974683544
+politic	politics	0.3793103448275862
+polylactic acid	polyglycolic acid	0.5
+polyolefin	polyamide	0.3103448275862069
+polypropylene	polyethylene	0.44623655913978494
+polypyrrole	polyaniline	0.6296296296296297
+poor diet	lack of exercise	0.3958333333333333
+poor diet	poor nutrition	0.37735849056603776
+poor diet	physical inactivity	0.328125
+poor diet	tobacco use	0.3076923076923077
+poplar	willow	0.3188405797101449
+population density	income level	0.3148148148148148
+porch	deck	0.3076923076923077
+pork	beef	0.4609375
+porsche	audi	0.3611111111111111
+porsche	lexus	0.35714285714285715
+portability	maintainability	0.3488372093023256
+portability	simplicity	0.3469387755102041
+portability	robustness	0.3333333333333333
+portability	convenience	0.3333333333333333
+portability	longevity	0.3157894736842105
+portability	accessibility	0.3050847457627119
+portland	denver	0.4594594594594595
+portland	pittsburgh	0.45714285714285713
+portland	baltimore	0.45454545454545453
+portland	seattle	0.4418604651162791
+portland	atlanta	0.4358974358974359
+portland	san diego	0.4146341463414634
+portland	d c	0.3939393939393939
+portland	vancouver	0.38461538461538464
+portland	sydney	0.3611111111111111
+portland	philadelphia	0.35294117647058826
+portland	dallas	0.35
+portland	cleveland	0.35
+portland	detroit	0.3488372093023256
+portland	houston	0.34782608695652173
+portland	st louis	0.34285714285714286
+portland	richmond	0.3142857142857143
+portland	boston	0.3114754098360656
+portland	new york city	0.3103448275862069
+portugal	greece	0.42592592592592593
+portugal	ireland	0.4117647058823529
+portugal	denmark	0.3829787234042553
+portugal	belgium	0.3763440860215054
+portugal	finland	0.34831460674157305
+portugal	netherlands	0.31496062992125984
+post traumatic stress disorder	obsessive compulsive disorder	0.36
+post traumatic stress disorder	mood disorder	0.3333333333333333
+post traumatic stress disorder	panic attack	0.3125
+posture	body language	0.3269230769230769
+potassium hydroxide	sodium hydroxide	0.4666666666666667
+potassium hydroxide	naoh	0.34545454545454546
+power outage	severe weather	0.34285714285714286
+powerpoint	excel	0.3382352941176471
+prada	gucci	0.5375
+prada	chanel	0.4125
+prada	armani	0.4
+prada	burberry	0.3548387096774194
+prada	versace	0.35
+prada	calvin klein	0.3230769230769231
+prada	ralph lauren	0.31343283582089554
+precision	accuracy	0.3114754098360656
+preeclampsia	gestational diabetes	0.30952380952380953
+preservative	colorant	0.30434782608695654
+principal components analysis	factor analysis	0.3076923076923077
+priority	domain	0.3157894736842105
+privacy	confidentiality	0.35294117647058826
+privacy	accessibility	0.31
+procedure	policy	0.36065573770491804
+procter gamble	nestle	0.34545454545454546
+procurement	hr	0.32894736842105265
+professionalism	self awareness	0.4
+professionalism	understanding	0.3888888888888889
+professionalism	dignity	0.3870967741935484
+professionalism	participation	0.3611111111111111
+professionalism	morality	0.35294117647058826
+professionalism	authenticity	0.34375
+professionalism	effectiveness	0.3333333333333333
+professionalism	team work	0.3333333333333333
+professionalism	harmony	0.3333333333333333
+professionalism	authority	0.32432432432432434
+professionalism	interpersonal skill	0.3125
+professionalism	enthusiasm	0.3125
+professionalism	awareness	0.30952380952380953
+professionalism	entrepreneurship	0.3055555555555556
+professionalism	dependability	0.3055555555555556
+professionalism	interaction	0.3055555555555556
+professionalism	mission	0.30303030303030304
+professionalism	spirituality	0.30303030303030304
+professionalism	perseverance	0.3023255813953488
+professionalism	adaptability	0.3023255813953488
+profit	profitability	0.3116883116883117
+profitability	customer satisfaction	0.31666666666666665
+project management	customer service	0.3181818181818182
+promoter	enhancer	0.3695652173913043
+propane	butane	0.42857142857142855
+propane	ethane	0.30357142857142855
+propylene	ethylene	0.4
+propylene glycol	ethylene glycol	0.3047619047619048
+prostaglandin	bradykinin	0.3220338983050847
+proteomic	genomic	0.32051282051282054
+proteomic	transcriptomic	0.3114754098360656
+protocol	content	0.3188405797101449
+psoriasis	eczema	0.3959731543624161
+psychiatrist	occupational therapist	0.3469387755102041
+psychologist	social worker	0.3786407766990291
+psychologist	psychiatrist	0.35526315789473684
+psychologist	occupational therapist	0.32
+ptsd	personality disorder	0.4473684210526316
+ptsd	anxiety disorder	0.3684210526315789
+ptsd	phobia	0.36363636363636365
+ptsd	panic disorder	0.358974358974359
+ptsd	post traumatic stress disorder	0.34615384615384615
+ptsd	obsessive compulsive disorder	0.3191489361702128
+ptsd	mood disorder	0.3191489361702128
+punctuality	self awareness	0.3684210526315789
+punctuation	spelling	0.32786885245901637
+punctuation	grammar	0.30158730158730157
+purpose	objective	0.3333333333333333
+qatar	united arab emirates	0.41304347826086957
+qatar	kuwait	0.38181818181818183
+qatar	saudi arabia	0.3063063063063063
+quality assurance	data analysis	0.32653061224489793
+quality assurance	quality control	0.32142857142857145
+quality assurance	risk management	0.3157894736842105
+quality control	interpretation	0.32558139534883723
+questionnaire	interview	0.3037037037037037
+quinoa	buckwheat	0.3442622950819672
+racism	sexism	0.38666666666666666
+radiofrequency ablation	cryotherapy	0.3392857142857143
+radiotherapy	radiation therapy	0.3253012048192771
+rain	snow	0.30275229357798167
+rainfall	air temperature	0.3627450980392157
+rainfall	relative humidity	0.34579439252336447
+ralph lauren	calvin klein	0.4222222222222222
+ralph lauren	hugo boss	0.35714285714285715
+ralph lauren	chanel	0.3382352941176471
+ralph lauren	dior	0.32653061224489793
+raman spectroscopy	ftir	0.32432432432432434
+raspberry	strawberry	0.30201342281879195
+ratio	proportion	0.3170731707317073
+reaction time	reaction temperature	0.3877551020408163
+record keeping	financial management	0.30303030303030304
+red blood cell	white blood cell	0.4482758620689655
+reddit	digg	0.5161290322580645
+reddit	tumblr	0.3235294117647059
+reflexology	aromatherapy	0.36538461538461536
+reflexology	acupressure	0.3409090909090909
+reproducibility	repeatability	0.4411764705882353
+reproducibility	robustness	0.36585365853658536
+reproducibility	selectivity	0.3333333333333333
+reputation	expertise	0.3191489361702128
+reputation	aesthetic	0.3050847457627119
+research	development	0.3020833333333333
+researcher	investor	0.3170731707317073
+researcher	scientist	0.3023255813953488
+respect	honesty	0.35507246376811596
+respect	integrity	0.3382352941176471
+responsibility	respect	0.33070866141732286
+responsibility	honesty	0.323943661971831
+responsibility	accountability	0.30275229357798167
+restaurant	hotel	0.3163716814159292
+restylane	juvederm	0.6052631578947368
+reuters	associated press	0.358974358974359
+revenue	profit	0.3068181818181818
+richmond	d c	0.3548387096774194
+richmond	baltimore	0.3333333333333333
+richmond	san diego	0.3170731707317073
+richmond	denver	0.3157894736842105
+risk	accessibility	0.325
+risk	aesthetic	0.3142857142857143
+risk assessment	interpretation	0.358974358974359
+risk assessment	data analysis	0.32558139534883723
+risk assessment	feedback	0.32142857142857145
+risk assessment	validation	0.30952380952380953
+risk assessment	certification	0.30612244897959184
+risk assessment	supervision	0.3018867924528302
+river	lake	0.40671641791044777
+river	stream	0.31363636363636366
+rivet	bolt	0.30303030303030304
+rock climbing	mountain biking	0.39622641509433965
+rock climbing	horse riding	0.3148148148148148
+rolling stones	beatles	0.38461538461538464
+romania	bulgaria	0.5660377358490566
+romania	poland	0.37209302325581395
+rosemary	sage	0.3076923076923077
+rotary	lions	0.3404255319148936
+ruby	emerald	0.31343283582089554
+rugby	hockey	0.31746031746031744
+rule of law	participation	0.3333333333333333
+running	jogging	0.4158415841584158
+ruthenium	rhodium	0.5151515151515151
+ruthenium	iridium	0.35135135135135137
+rwanda	ethiopia	0.35714285714285715
+rwanda	liberia	0.3488372093023256
+saccharin	aspartame	0.4
+sadness	frustration	0.30120481927710846
+safeway	kroger	0.5
+safeway	whole foods	0.3023255813953488
+sailing	surfing	0.35714285714285715
+sailing	horse riding	0.3442622950819672
+sailing	scuba diving	0.32894736842105265
+sailing	snorkeling	0.3188405797101449
+salmonella spp	listeria monocytogenes	0.34375
+salvation army	red cross	0.32051282051282054
+samsung	nokia	0.3333333333333333
+san diego	denver	0.4418604651162791
+san diego	d c	0.38461538461538464
+san diego	philadelphia	0.375
+san diego	baltimore	0.36585365853658536
+san diego	dallas	0.34782608695652173
+san diego	seattle	0.34615384615384615
+san diego	pittsburgh	0.3409090909090909
+san diego	sydney	0.32558139534883723
+san diego	detroit	0.32
+san diego	cleveland	0.3191489361702128
+san diego	boston	0.31343283582089554
+san francisco	los angeles	0.4574468085106383
+san francisco	new york city	0.425
+san francisco	seattle	0.3888888888888889
+san francisco	boston	0.37209302325581395
+san francisco	philadelphia	0.3717948717948718
+san francisco	san diego	0.352112676056338
+san francisco	atlanta	0.34285714285714286
+san francisco	miami	0.32051282051282054
+san francisco	washington	0.31521739130434784
+san francisco	denver	0.3142857142857143
+sardine	herring	0.35294117647058826
+sas	spss	0.4666666666666667
+saudi arabia	iran	0.34
+sausage	bacon	0.3805309734513274
+scallop	mussel	0.31343283582089554
+scallop	prawn	0.30612244897959184
+schizophrenia	bipolar disorder	0.32608695652173914
+scissors	scissor	0.3424657534246575
+scouts	boy scouts	0.40625
+scuba diving	snorkeling	0.41935483870967744
+scuba diving	mountain biking	0.3225806451612903
+sears	macy s	0.4117647058823529
+sears	wal-mart	0.33695652173913043
+sears	home depot	0.30851063829787234
+seattle	baltimore	0.3953488372093023
+seattle	denver	0.375
+seattle	d c	0.3488372093023256
+seattle	detroit	0.34615384615384615
+seattle	pittsburgh	0.3125
+seattle	st louis	0.3111111111111111
+security camera	cctv	0.32432432432432434
+sedation	respiratory depression	0.3170731707317073
+selectivity	repeatability	0.3055555555555556
+self awareness	team work	0.41935483870967744
+self awareness	adaptability	0.3333333333333333
+self confidence	self awareness	0.3888888888888889
+self confidence	perseverance	0.3617021276595745
+self confidence	enthusiasm	0.35135135135135137
+self confidence	punctuality	0.3333333333333333
+self confidence	initiative	0.3333333333333333
+self confidence	assertiveness	0.3333333333333333
+self confidence	self esteem	0.3150684931506849
+self efficacy	self esteem	0.32142857142857145
+self esteem	optimism	0.3411764705882353
+sem	scanning electron microscopy	0.31666666666666665
+serum	plasma	0.32926829268292684
+sesame	groundnut	0.3157894736842105
+setting	theme	0.3333333333333333
+settlement	localization	0.30303030303030304
+settlement	interpretation	0.30303030303030304
+setup	transaction	0.3235294117647059
+sexual abuse	physical abuse	0.34
+sexual abuse	neglect	0.328125
+sexual orientation	nationality	0.3220338983050847
+sheep	goat	0.4088050314465409
+shigella	salmonella spp	0.35294117647058826
+shopping centre	shopping center	0.3125
+shrimp	crab	0.3776223776223776
+sickle cell anemia	sickle cell disease	0.3023255813953488
+siemens	honeywell	0.32
+sierra club	nature conservancy	0.34285714285714286
+sierra leone	liberia	0.5517241379310345
+sierra leone	zambia	0.32432432432432434
+sierra leone	rwanda	0.3111111111111111
+simulated annealing	tabu search	0.36
+simulated annealing	genetic algorithm	0.3269230769230769
+sister	father	0.34285714285714286
+skewness	variance	0.30158730158730157
+skill	knowledge	0.3821138211382114
+skunk	raccoon	0.4126984126984127
+skunk	opossum	0.3695652173913043
+slovakia	bulgaria	0.5121951219512195
+slovakia	croatia	0.38235294117647056
+slovakia	romania	0.35185185185185186
+slovakia	cyprus	0.35135135135135137
+slovakia	lithuania	0.35135135135135137
+slovakia	estonia	0.3170731707317073
+slovakia	latvia	0.3055555555555556
+smartphone	tablet	0.30368098159509205
+smell	taste	0.31521739130434784
+smoking status	smoking habit	0.41025641025641024
+smoking status	maternal age	0.35714285714285715
+smoking status	socio economic status	0.3125
+snapper	grouper	0.34285714285714286
+soccer	basketball	0.43315508021390375
+soccer	baseball	0.3611111111111111
+soccer	volleyball	0.35714285714285715
+social justice	professionalism	0.3333333333333333
+social justice	morality	0.3333333333333333
+socio economic status	maternal age	0.36585365853658536
+socio economic status	family size	0.3409090909090909
+socioeconomic status	educational level	0.3375
+socioeconomic status	socio economic status	0.3235294117647059
+socioeconomic status	education level	0.3111111111111111
+sociology	anthropology	0.45652173913043476
+sociology	psychology	0.3333333333333333
+sociology	economics	0.3275862068965517
+sodium	potassium	0.4269230769230769
+sodium carbonate	sodium bicarbonate	0.3333333333333333
+sodium hydroxide	naoh	0.30666666666666664
+soft drink	soda	0.3088235294117647
+softball	volleyball	0.34444444444444444
+softball	baseball	0.3368421052631579
+soil moisture	water depth	0.34146341463414637
+soil moisture	soil texture	0.3181818181818182
+soil texture	water content	0.32432432432432434
+soil type	topography	0.3017241379310345
+solar energy	wind energy	0.4444444444444444
+solar energy	geothermal	0.39215686274509803
+solar energy	hydropower	0.36363636363636365
+solar energy	wind power	0.32786885245901637
+solar energy	solar power	0.3275862068965517
+solar energy	biofuel	0.3018867924528302
+solar power	geothermal	0.4
+solar power	wind energy	0.30612244897959184
+solar radiation	relative humidity	0.3888888888888889
+solar radiation	air temperature	0.3380281690140845
+solar radiation	wind speed	0.32051282051282054
+somalia	sudan	0.32653061224489793
+sony	samsung	0.3469387755102041
+sorafenib	sunitinib	0.5757575757575758
+south korea	korea	0.3217391304347826
+soybean oil	sunflower oil	0.4166666666666667
+soybean oil	corn oil	0.35135135135135137
+spain	italy	0.5229885057471264
+spain	portugal	0.421875
+spain	greece	0.3584905660377358
+spain	ireland	0.32051282051282054
+spain	belgium	0.3194444444444444
+spain	denmark	0.30612244897959184
+specific gravity	melting point	0.3181818181818182
+specificity	sensitivity	0.3387096774193548
+spinach	broccoli	0.35797665369649806
+spirituality	morality	0.38235294117647056
+spirituality	social capital	0.30303030303030304
+spirulina	chlorella	0.3902439024390244
+splint	crutch	0.3076923076923077
+spotify	pandora	0.3194444444444444
+squid	prawn	0.31666666666666665
+squirrel	skunk	0.34615384615384615
+squirrel	opossum	0.32653061224489793
+sri lanka	costa rica	0.3137254901960784
+stabilizer	emulsifier	0.4032258064516129
+stabilizer	preservative	0.34615384615384615
+stabilizer	plasticizer	0.34328358208955223
+stack	queue	0.4
+standard deviation	median	0.325
+standard poor s	moody s	0.6
+staphylococcus aureus	staphylococcus	0.32075471698113206
+stock	bond	0.3018867924528302
+strategic planning	public relation	0.30612244897959184
+streptococcus	staphylococcus	0.38095238095238093
+strontium	barium	0.30357142857142855
+sudan	rwanda	0.3469387755102041
+sudan	uganda	0.3076923076923077
+sugar cane	sugarcane	0.3728813559322034
+sulfur	sulphur	0.3020833333333333
+sunflower	canola	0.3113207547169811
+sunflower oil	canola oil	0.3783783783783784
+superoxide	hydroxyl radical	0.4375
+superoxide dismutase	glutathione peroxidase	0.30985915492957744
+supply chain management	human resource management	0.3111111111111111
+supply chain management	customer relationship management	0.30612244897959184
+surfing	scuba diving	0.373134328358209
+surfing	mountain biking	0.3103448275862069
+surfing	snorkeling	0.30158730158730157
+sustainable development	conservation	0.3023255813953488
+swap	future	0.3235294117647059
+sweden	denmark	0.46017699115044247
+sweden	netherlands	0.4125874125874126
+sweden	finland	0.3963963963963964
+sweden	belgium	0.35833333333333334
+sweden	switzerland	0.35555555555555557
+sweden	norway	0.3283582089552239
+sweden	austria	0.3170731707317073
+sweetener	coloring agent	0.36363636363636365
+switchgras	miscanthus	0.3333333333333333
+switzerland	norway	0.368
+switzerland	netherlands	0.3448275862068966
+switzerland	belgium	0.3448275862068966
+sydney	d c	0.3235294117647059
+sydney	st louis	0.3142857142857143
+sydney	manchester	0.3125
+sydney	baltimore	0.3055555555555556
+table tennis	badminton	0.3269230769230769
+tannin	alkaloid	0.3333333333333333
+tannin	flavonoid	0.3163265306122449
+tanzania	uganda	0.4423076923076923
+tanzania	ethiopia	0.42592592592592593
+tanzania	zimbabwe	0.4166666666666667
+tanzania	kenya	0.4027777777777778
+tanzania	zambia	0.3695652173913043
+tanzania	sudan	0.3137254901960784
+tax credit	rebate	0.35294117647058826
+taylor swift	rihanna	0.42105263157894735
+taylor swift	kanye west	0.34375
+taylor swift	elton john	0.34375
+teak	mahogany	0.3387096774193548
+team building	conflict resolution	0.3125
+team work	conflict resolution	0.3333333333333333
+telescope	binocular	0.4
+television	radio	0.3563636363636364
+temple	mosque	0.42105263157894735
+tendon	ligament	0.42
+tendonitis	carpal tunnel syndrome	0.3111111111111111
+testis	ovary	0.45161290322580644
+tetanus	diphtheria	0.3783783783783784
+texas	florida	0.3135593220338983
+thailand	indonesia	0.3765432098765432
+thailand	philippines	0.3609022556390977
+thailand	malaysia	0.34375
+thailand	vietnam	0.33098591549295775
+therapist	occupational therapist	0.3404255319148936
+therapist	physical therapist	0.3181818181818182
+thirst	hunger	0.34146341463414637
+throughput	latency	0.323943661971831
+thyme	rosemary	0.422680412371134
+thyme	sage	0.31868131868131866
+thyme	oregano	0.3142857142857143
+thyroid problem	thyroid disease	0.3055555555555556
+tiff	png	0.34146341463414637
+tiger	leopard	0.39473684210526316
+tiger	lion	0.32967032967032966
+tiger	cougar	0.3235294117647059
+time of day	weather condition	0.32608695652173914
+time of day	geographic location	0.30434782608695654
+times new roman	arial	0.5555555555555556
+titania	zirconia	0.35
+titanium dioxide	zinc oxide	0.375
+tobacco smoke	cigarette smoke	0.32653061224489793
+tobacco use	physical inactivity	0.36666666666666664
+tobacco use	alcohol consumption	0.313953488372093
+tolerance	respect	0.34579439252336447
+toluene	benzene	0.42857142857142855
+toluene	xylene	0.36619718309859156
+toothbrush	toothpaste	0.30973451327433627
+top	bottom	0.3492063492063492
+topiramate	gabapentin	0.34
+topiramate	valproate	0.3333333333333333
+toshiba	panasonic	0.38235294117647056
+toshiba	fujitsu	0.3269230769230769
+toshiba	philips	0.31343283582089554
+toshiba	acer	0.3090909090909091
+total cholesterol	triglyceride	0.42857142857142855
+toyota	honda	0.5075757575757576
+toyota	nissan	0.37606837606837606
+toyota	general motors	0.3533834586466165
+toyota	ford	0.34269662921348315
+trademark	patent	0.34285714285714286
+transcriptomic	metabolomic	0.3235294117647059
+transmission electron microscopy	scanning electron microscopy	0.3269230769230769
+transmission electron microscopy	xrd	0.3157894736842105
+triangle	rectangle	0.31932773109243695
+trustworthiness	openness	0.34146341463414637
+trustworthiness	adaptability	0.3023255813953488
+truth	morality	0.3181818181818182
+tumor size	patient age	0.3076923076923077
+tumor size	stage	0.3026315789473684
+tunisia	algeria	0.3404255319148936
+tunisia	sudan	0.3023255813953488
+turnip	radish	0.3472222222222222
+tylenol	advil	0.3894736842105263
+tylenol	acetaminophen	0.33766233766233766
+typhoid	cholera	0.3380281690140845
+ubs	deutsche bank	0.4186046511627907
+ubs	barclays	0.3018867924528302
+uganda	ethiopia	0.4716981132075472
+uganda	rwanda	0.34545454545454546
+uganda	kenya	0.34210526315789475
+uganda	zambia	0.3333333333333333
+uganda	malawi	0.3333333333333333
+uganda	zimbabwe	0.3269230769230769
+understanding	morality	0.35
+understanding	determination	0.32558139534883723
+understanding	participation	0.32558139534883723
+understanding	dignity	0.3076923076923077
+understanding	punctuality	0.30434782608695654
+understanding	passion	0.3023255813953488
+undp	unicef	0.5
+undp	usaid	0.3611111111111111
+unilever	procter gamble	0.4032258064516129
+unilever	nestle	0.3384615384615385
+unilever	general electric	0.3258426966292135
+unilever	siemens	0.3103448275862069
+unilever	coca-cola	0.30303030303030304
+united arab emirates	kuwait	0.3695652173913043
+united way	american cancer society	0.325
+urbanization	population growth	0.3469387755102041
+urbanization	urbanisation	0.3150684931506849
+urinary incontinence	incontinence	0.3157894736842105
+usa	u s	0.33093525179856115
+usa	canada	0.312
+va	fha	0.40625
+validation	verification	0.3076923076923077
+valium	xanax	0.6666666666666666
+valproic acid	topiramate	0.32558139534883723
+vancouver	toronto	0.5217391304347826
+vancouver	sydney	0.43243243243243246
+vancouver	denver	0.3488372093023256
+vancouver	san diego	0.34782608695652173
+vancouver	baltimore	0.3333333333333333
+vancouver	seattle	0.32
+vancouver	dallas	0.3181818181818182
+vancouver	d c	0.3157894736842105
+vancouver	st louis	0.3076923076923077
+vancouver	philadelphia	0.30357142857142855
+vascular endothelial growth factor	fibroblast growth factor	0.30952380952380953
+vegetable	fruit	0.4370860927152318
+vegetarian	gluten free	0.3142857142857143
+vegf	vascular endothelial growth factor	0.375
+veneer	teeth whitening	0.4
+verapamil	diltiazem	0.4888888888888889
+versace	armani	0.4473684210526316
+versace	calvin klein	0.3902439024390244
+versace	hugo boss	0.3888888888888889
+versace	burberry	0.375
+versace	dior	0.3488372093023256
+versace	ralph lauren	0.3111111111111111
+vertical	horizontal	0.3076923076923077
+vicodin	oxycodone	0.36363636363636365
+vicodin	hydrocodone	0.3404255319148936
+victoria	d c	0.34210526315789475
+vietnam	cambodia	0.32323232323232326
+vietnam	indonesia	0.3125
+viewer feedback forum	blogging	0.40384615384615385
+vincristine	vinblastine	0.43902439024390244
+vinegar	lemon juice	0.34444444444444444
+virginia	maryland	0.38636363636363635
+virginia	new jersey	0.32558139534883723
+visibility	accessibility	0.375
+vitamin a	vitamins a	0.3333333333333333
+vitamin a	vitamin d	0.3283582089552239
+vitamin e	vitamin c	0.33125
+vitamins a	vitamins c	0.3191489361702128
+vocabulary	grammar	0.3548387096774194
+volkswagen	audi	0.37209302325581395
+volkswagen	bmw	0.3235294117647059
+volvo	chrysler	0.3829787234042553
+volvo	nissan	0.3492063492063492
+volvo	mercedes benz	0.3333333333333333
+volvo	volkswagen	0.3188405797101449
+volvo	audi	0.3026315789473684
+wal mart	target	0.3769633507853403
+wal-mart	wal mart	0.46099290780141844
+wal-mart	target	0.38513513513513514
+walker	crutch	0.3157894736842105
+wall street journal	new york times	0.358974358974359
+wall street journal	financial times	0.3387096774193548
+wall street journal	usa today	0.3384615384615385
+wall street journal	washington post	0.3150684931506849
+wallet	purse	0.38028169014084506
+warehouse	factory	0.30158730158730157
+washington	philadelphia	0.34210526315789475
+washington	d c	0.3389830508474576
+washington	boston	0.32941176470588235
+washington	new york city	0.32926829268292684
+washington	san diego	0.3188405797101449
+washington	atlanta	0.3088235294117647
+washington post	usa today	0.35555555555555557
+water depth	soil texture	0.3235294117647059
+water skiing	parasailing	0.3783783783783784
+water skiing	windsurfing	0.36
+water skiing	surfing	0.3333333333333333
+watercress	bok choy	0.4666666666666667
+watercress	collard green	0.35294117647058826
+waxing	shaving	0.3148148148148148
+web design	graphic design	0.3673469387755102
+weight gain	dry mouth	0.3116883116883117
+whale	dolphin	0.4
+white blood cell count	erythrocyte sedimentation rate	0.3870967741935484
+white flour	white rice	0.41304347826086957
+white rice	white bread	0.5161290322580645
+wiki	blogs	0.3220338983050847
+wikis	wiki	0.32926829268292684
+wind direction	air temperature	0.36065573770491804
+wind direction	relative humidity	0.31343283582089554
+wind power	geothermal	0.45098039215686275
+wind power	solar power	0.3793103448275862
+wind power	wind energy	0.3333333333333333
+wind speed	relative humidity	0.4819277108433735
+wind speed	air temperature	0.475
+wind speed	wind direction	0.4
+wind speed	rainfall	0.3486238532110092
+wind turbine	solar panel	0.3684210526315789
+wind turbine	photovoltaic	0.31666666666666665
+window	door	0.3056379821958457
+windsurfing	sailing	0.4
+windsurfing	snorkeling	0.3684210526315789
+windsurfing	surfing	0.3442622950819672
+windsurfing	kayaking	0.34146341463414637
+windsurfing	parasailing	0.32608695652173914
+wine	beer	0.3089887640449438
+wisconsin	minnesota	0.4411764705882353
+wisconsin	michigan	0.375
+wisconsin	illinois	0.358974358974359
+wisconsin	colorado	0.3055555555555556
+wisconsin	virginia	0.3023255813953488
+wisdom	gratitude	0.3055555555555556
+wisdom	authenticity	0.3055555555555556
+wisdom	perseverance	0.30434782608695654
+wma	aac	0.40625
+wma	wav	0.39473684210526316
+workplace	neighborhood	0.3409090909090909
+workshop	seminar	0.31213872832369943
+wrench	plier	0.5135135135135135
+wrench	screwdriver	0.36065573770491804
+wrestling	boxing	0.3333333333333333
+x rays	x-rays	0.45555555555555555
+x rays	ct scan	0.32608695652173914
+x-rays	ct scan	0.32894736842105265
+xanthan gum	gum arabic	0.43243243243243246
+xanthan gum	pectin	0.32075471698113206
+xrd	sem	0.4634146341463415
+yale	harvard	0.4262295081967213
+yale	stanford	0.37209302325581395
+yellow fever	dengue fever	0.4444444444444444
+yellow fever	dengue	0.42857142857142855
+ymca	habitat for humanity	0.3333333333333333
+ymca	united way	0.3170731707317073
+zambia	malawi	0.36585365853658536
+zambia	liberia	0.3333333333333333
+zambia	zimbabwe	0.32558139534883723
+zambia	ethiopia	0.32
+zno	tio 2	0.42857142857142855
+zoloft	paxil	0.6785714285714286
+zoloft	prozac	0.5813953488372093
+zoloft	fluoxetine	0.34146341463414637
