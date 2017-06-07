@@ -8,8 +8,8 @@ Created on Sat Jun  3 15:19:15 2017
 import matplotlib.pyplot as plt
 import pickle
 
-
-with open('allconcept.pkl', 'rb') as dictfile:
+projdir='/Users/zhiwei/Google Drive/Knowledge_Base/conceptgraph/'
+with open(projdir+'data_preprocess/allconcept.pkl', 'rb') as dictfile:
     [allc,allc_p]=pickle.load(dictfile)
 
 

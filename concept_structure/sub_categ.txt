@@ -1,0 +1,16 @@
+
+
+root concept: person
+[('person', 197), ('group', 195), ('name', 146), ('professional', 141), ('stakeholder', 137), ('role', 133), ('job', 107), ('position', 101), ('celebrity', 96), ('occupation', 96), ('profession', 88), ('third party', 84), ('party', 81), ('leader', 75), ('author', 72), ('man', 71), ('artist', 69), ('worker', 62), ('writer', 60), ('character', 59)]
+
+root concept: event
+[('event', 971), ('problem', 236), ('situation', 205), ('condition', 203), ('theme', 194), ('variable', 185), ('topic', 172), ('circumstance', 164), ('reason', 151), ('product', 146), ('sport', 130), ('skill', 128), ('service', 127), ('matter', 127), ('environmental factor', 126), ('parameter', 120), ('external factor', 116), ('measure', 113), ('form', 112), ('activity', 112)]
+
+root concept: plant
+[('ingredient', 217), ('crop', 212), ('plant', 204), ('herb', 176), ('vegetable', 116), ('flower', 110), ('tree', 100), ('flavor', 90), ('perennial', 89), ('seed', 85), ('oil', 70), ('shrub', 69), ('fruit', 63), ('food item', 53), ('plant specie', 51), ('variety', 50), ('annual', 49), ('cash crop', 48), ('essential oil', 48), ('topping', 47)]
+
+root concept: animal
+[('animal', 207), ('predator', 136), ('wild animal', 120), ('species', 94), ('bird', 93), ('invertebrate', 92), ('small animal', 83), ('group', 81), ('large mammal', 79), ('specie', 68), ('large animal', 67), ('prey', 59), ('small mammal', 56), ('pest', 55), ('insect', 50), ('vertebrate', 49), ('carnivore', 48), ('pet', 46), ('wildlife specie', 46), ('exotic animal', 45)]
+
+root concept: food
+[('ingredient', 414), ('food', 198), ('food item', 196), ('crop', 185), ('plant', 177), ('dish', 173), ('specie', 159), ('vegetable', 149), ('flavor', 147), ('food product', 126), ('topping', 120), ('snack', 115), ('natural ingredient', 88), ('favorite', 85), ('species', 85), ('fruit', 82), ('grain', 77), ('seed', 76), ('oil', 73), ('healthy food', 72)]

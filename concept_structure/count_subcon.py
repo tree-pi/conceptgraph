@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 import pickle
 import collections
 
-with open(‘data_preprocess/allconcept.pkl', 'rb') as dictfile:
+with open('data_preprocess/allconcept.pkl', 'rb') as dictfile:
     [allc,allc_p]=pickle.load(dictfile)
 """
 n_subc = []
